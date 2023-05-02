@@ -1,29 +1,6 @@
-[15:43:50] [main/INFO]: Setting user: Player114
-[15:43:51] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:43:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Advanced Grappling Hook
-[15:43:58] [Sound Library Loader/INFO]: Sound engine started
-[15:43:59] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[15:43:59] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[15:43:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Advanced Grappling Hook
-[15:44:00] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:44:00] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:44:00] [Sound Library Loader/INFO]: Sound engine started
-[15:46:21] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:46:21] [Server thread/INFO]: Generating keypair
-[15:46:21] [Server thread/INFO]: Preparing start region for level 0
-[15:46:22] [Server thread/INFO]: Changing view distance to 6, from 10
-[15:46:22] [Server thread/INFO]: Player114[local:E:b1aed206] logged in with entity id 1 at (466.4108122345025, 44.676679412834524, -36.528613688486026)
-[15:46:23] [Server thread/INFO]: Player114 がゲームに参加しました
-[15:46:27] [Server thread/INFO]: Player114 は [所持品の確認] の実績を取得した
-[15:46:27] [Client thread/INFO]: [CHAT] Player114 は [所持品の確認] の実績を取得した
-[15:46:45] [Server thread/INFO]: Saving and pausing game...
-[15:46:45] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
-[15:46:45] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
-[15:46:45] [Server thread/INFO]: Saving chunks for level 'Test'/The End
-[15:46:46] [Server thread/INFO]: Stopping server
-[15:46:46] [Server thread/INFO]: Saving players
-[15:46:46] [Server thread/INFO]: Saving worlds
-[15:46:46] [Server thread/INFO]: Saving chunks for level 'Test'/Overworld
-[15:46:46] [Server thread/INFO]: Saving chunks for level 'Test'/Nether
-[15:46:46] [Server thread/INFO]: Saving chunks for level 'Test'/The End
-[15:46:47] [Client thread/INFO]: Stopping!
+[21:06:53] [main/INFO]: Setting user: Player604
+[21:06:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:07:01] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Advanced Grappling Hook
+[21:07:02] [Sound Library Loader/INFO]: Sound engine started
+[21:07:02] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:07:02] [Client thread/INFO]: Created: 16x16 textures/items-atlas

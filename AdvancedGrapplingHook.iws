@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5b08f71-dd8e-4e68-b959-0a2710bad06d" name="デフォルト変更リスト" comment="" />
+    <list default="true" id="e5b08f71-dd8e-4e68-b959-0a2710bad06d" name="デフォルト変更リスト" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ukon/agh/client/gui/slots/SlotThunderspear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jp/ukon/agh/client/settings/AGHKeyBinding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvancedGrapplingHook.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedGrapplingHook.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AdvancedGrapplingHook.iws" beforeDir="false" afterPath="$PROJECT_DIR$/AdvancedGrapplingHook.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinecraftForge-Credits.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MinecraftForge-License.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/DIM-1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/DIM1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/region/r.1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/region/r.1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/region/r.1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/region/r.1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/usernamecache.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/usernamecache.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forge-1.7.10-10.13.4.1614-1.7.10-changelog.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ukon/agh/AdvancedGrapplingHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ukon/agh/AdvancedGrapplingHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ukon/agh/items/NormalGrapplingHook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ukon/agh/modules/base/creativetab/AdvancedGrapplingHookTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ukon/agh/modules/base/item/GrapplingHook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ukon/agh/patches/init/InitCreativeTab.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/jp/ukon/agh/patches/init/InitItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/jp/ukon/agh/patches/init/InitItem.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,9 +121,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ModuleEditorState">
     <option name="LAST_EDITED_MODULE_NAME" />
     <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="2HqmoRAfr3s0EYslIt2uOHUx6A2" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -92,6 +145,7 @@
       <profile-state />
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -109,6 +163,20 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="モジュール" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Game\Minecraft\Modding\Forge\MyMods\1.7.10\AdvancedGrapplingHook\src\main\resources\assets\agh\textures" />
+      <recent name="D:\Game\Minecraft\Modding\Forge\MyMods\1.7.10\AdvancedGrapplingHook\src\main\resources\assets\agh" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="jp.ukon.agh.client.gui.slots" />
+      <recent name="jp.ukon.agh.common.item" />
+      <recent name="jp.ukon.agh.modules" />
+    </key>
   </component>
   <component name="RunManager" selected="Gradle.AdvancedGrapplingHook [runClient]">
     <configuration default="true" factoryName="Applet" type="Applet">
@@ -199,7 +267,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="--stacktrace" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -268,6 +336,18 @@
       <updated>1669021165711</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
